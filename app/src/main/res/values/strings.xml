@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="App_Name">Habbit Tracker</string>
+    <string name="App_name_in_splash">Habbit Tracker</string>
+    <string name="onboarding1_subtext">Start your journey toward self-improvement by building small, positive habits that create long-lasting change in your life.</string>
+    <string name="next">Next</string>
+    <string name="onboarding2_text">Easily record your daily habits, monitor your progress, and stay focused with clear insights that encourage personal growth</string>
+    <string name="onboarding3_text">Stay consistent every day, push yourself forward, and achieve meaningful goals that bring real success and confidence.</string>
+</resources>

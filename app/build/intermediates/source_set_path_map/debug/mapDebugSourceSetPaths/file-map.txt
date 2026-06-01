@@ -1,0 +1,43 @@
+com.example.myapplication.app-appcompat-resources-1.6.1-0 C:\Users\iagz\.gradle\caches\8.13\transforms\03d3ef3d9f45b4319f9eab648b48fe2c\transformed\appcompat-resources-1.6.1\res
+com.example.myapplication.app-work-runtime-2.10.4-1 C:\Users\iagz\.gradle\caches\8.13\transforms\0ea63302be98e0a2b7471264dc196551\transformed\work-runtime-2.10.4\res
+com.example.myapplication.app-lifecycle-runtime-2.6.2-2 C:\Users\iagz\.gradle\caches\8.13\transforms\106f2693e492249c5267cb25246dd43b\transformed\lifecycle-runtime-2.6.2\res
+com.example.myapplication.app-room-ktx-2.6.1-3 C:\Users\iagz\.gradle\caches\8.13\transforms\11527cb4387001350b83c70b1b3e97ea\transformed\room-ktx-2.6.1\res
+com.example.myapplication.app-lifecycle-service-2.6.2-4 C:\Users\iagz\.gradle\caches\8.13\transforms\129dec3f79f31dd9ead8f686b322c064\transformed\lifecycle-service-2.6.2\res
+com.example.myapplication.app-emoji2-views-helper-1.2.0-5 C:\Users\iagz\.gradle\caches\8.13\transforms\32c40bae5425e9f681e2c7dd864907f3\transformed\emoji2-views-helper-1.2.0\res
+com.example.myapplication.app-appcompat-1.6.1-6 C:\Users\iagz\.gradle\caches\8.13\transforms\3d829a91c69c273969c04b9c32680576\transformed\appcompat-1.6.1\res
+com.example.myapplication.app-lifecycle-viewmodel-2.6.2-7 C:\Users\iagz\.gradle\caches\8.13\transforms\4501df0f5f79586a30fc3b41b9905d01\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.myapplication.app-core-1.12.0-8 C:\Users\iagz\.gradle\caches\8.13\transforms\48e38fe7bfc95d1177855663037a708e\transformed\core-1.12.0\res
+com.example.myapplication.app-savedstate-1.2.1-9 C:\Users\iagz\.gradle\caches\8.13\transforms\4bbcc1381dc7df97ba68eca12ab3eb13\transformed\savedstate-1.2.1\res
+com.example.myapplication.app-tracing-ktx-1.2.0-10 C:\Users\iagz\.gradle\caches\8.13\transforms\542c6d1f0e7260af919aa18cb9ae2991\transformed\tracing-ktx-1.2.0\res
+com.example.myapplication.app-emoji2-1.2.0-11 C:\Users\iagz\.gradle\caches\8.13\transforms\56e0297d2df71cae635a86f051916e50\transformed\emoji2-1.2.0\res
+com.example.myapplication.app-activity-1.8.0-12 C:\Users\iagz\.gradle\caches\8.13\transforms\57140069dd5517e22fa5f6f4e5b2da33\transformed\activity-1.8.0\res
+com.example.myapplication.app-material-1.10.0-13 C:\Users\iagz\.gradle\caches\8.13\transforms\6a8ff01d814017ec2c9eeea091a886b0\transformed\material-1.10.0\res
+com.example.myapplication.app-sqlite-2.4.0-14 C:\Users\iagz\.gradle\caches\8.13\transforms\6bcd18c068923e8be496762cbfaabe70\transformed\sqlite-2.4.0\res
+com.example.myapplication.app-annotation-experimental-1.4.1-15 C:\Users\iagz\.gradle\caches\8.13\transforms\7799495f5b35d2abd56da64c362bed1b\transformed\annotation-experimental-1.4.1\res
+com.example.myapplication.app-lifecycle-livedata-2.6.2-16 C:\Users\iagz\.gradle\caches\8.13\transforms\7a82ed1d6afd4f0df8eeea844c97e1ef\transformed\lifecycle-livedata-2.6.2\res
+com.example.myapplication.app-lifecycle-livedata-core-2.6.2-17 C:\Users\iagz\.gradle\caches\8.13\transforms\7e5e8827ee51abadb55318cf6c0354cf\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.myapplication.app-fragment-1.3.6-18 C:\Users\iagz\.gradle\caches\8.13\transforms\7f16a5770365057403f08a1c394b68f2\transformed\fragment-1.3.6\res
+com.example.myapplication.app-coordinatorlayout-1.1.0-19 C:\Users\iagz\.gradle\caches\8.13\transforms\8037847cd89976e42c625f950cbffce8\transformed\coordinatorlayout-1.1.0\res
+com.example.myapplication.app-sqlite-framework-2.4.0-20 C:\Users\iagz\.gradle\caches\8.13\transforms\80ebebae3f6e823a27991c1327dfc462\transformed\sqlite-framework-2.4.0\res
+com.example.myapplication.app-core-ktx-1.12.0-21 C:\Users\iagz\.gradle\caches\8.13\transforms\89f0f412e664b0f4cac99547ef645ff0\transformed\core-ktx-1.12.0\res
+com.example.myapplication.app-viewpager2-1.0.0-22 C:\Users\iagz\.gradle\caches\8.13\transforms\96c9564abde43ee5170ff709b24b90c5\transformed\viewpager2-1.0.0\res
+com.example.myapplication.app-constraintlayout-2.1.4-23 C:\Users\iagz\.gradle\caches\8.13\transforms\9ef1b52f5fe44fe92db36935deac6452\transformed\constraintlayout-2.1.4\res
+com.example.myapplication.app-lifecycle-process-2.6.2-24 C:\Users\iagz\.gradle\caches\8.13\transforms\a444e5c45e9b14221cae18ed488f8646\transformed\lifecycle-process-2.6.2\res
+com.example.myapplication.app-lifecycle-viewmodel-savedstate-2.6.2-25 C:\Users\iagz\.gradle\caches\8.13\transforms\af537118ee1e51d48bfb534eeb465d82\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.myapplication.app-tracing-1.2.0-26 C:\Users\iagz\.gradle\caches\8.13\transforms\b79d87e1e731cdae0ab30ced2067b6b7\transformed\tracing-1.2.0\res
+com.example.myapplication.app-room-runtime-2.6.1-27 C:\Users\iagz\.gradle\caches\8.13\transforms\bdfe2637f04a1d65d07ae61694992fd5\transformed\room-runtime-2.6.1\res
+com.example.myapplication.app-transition-1.2.0-28 C:\Users\iagz\.gradle\caches\8.13\transforms\c8babd251eb881a70ec7a102a54d397d\transformed\transition-1.2.0\res
+com.example.myapplication.app-drawerlayout-1.1.1-29 C:\Users\iagz\.gradle\caches\8.13\transforms\d1310a4561a643406d8511aa68653909\transformed\drawerlayout-1.1.1\res
+com.example.myapplication.app-recyclerview-1.1.0-30 C:\Users\iagz\.gradle\caches\8.13\transforms\d3d083b6472455cb6050d9fbdad0e0be\transformed\recyclerview-1.1.0\res
+com.example.myapplication.app-work-runtime-ktx-2.10.4-31 C:\Users\iagz\.gradle\caches\8.13\transforms\ef871cd9eb25800837be9f7464b3873b\transformed\work-runtime-ktx-2.10.4\res
+com.example.myapplication.app-core-runtime-2.2.0-32 C:\Users\iagz\.gradle\caches\8.13\transforms\ef95548f2f13beae22032cd94e02cfb8\transformed\core-runtime-2.2.0\res
+com.example.myapplication.app-profileinstaller-1.3.0-33 C:\Users\iagz\.gradle\caches\8.13\transforms\f14250b841e8461c9daaac983d7cb018\transformed\profileinstaller-1.3.0\res
+com.example.myapplication.app-cardview-1.0.0-34 C:\Users\iagz\.gradle\caches\8.13\transforms\f30534518843e4e601641bd044bf6384\transformed\cardview-1.0.0\res
+com.example.myapplication.app-startup-runtime-1.1.1-35 C:\Users\iagz\.gradle\caches\8.13\transforms\ff2f517405e573e9724553e5e1523902\transformed\startup-runtime-1.1.1\res
+com.example.myapplication.app-pngs-36 C:\Users\iagz\OneDrive\Desktop\LAB 3_MAD\v2\MAD-Lab-3-TODO-V1\app\build\generated\res\pngs\debug
+com.example.myapplication.app-resValues-37 C:\Users\iagz\OneDrive\Desktop\LAB 3_MAD\v2\MAD-Lab-3-TODO-V1\app\build\generated\res\resValues\debug
+com.example.myapplication.app-packageDebugResources-38 C:\Users\iagz\OneDrive\Desktop\LAB 3_MAD\v2\MAD-Lab-3-TODO-V1\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.myapplication.app-packageDebugResources-39 C:\Users\iagz\OneDrive\Desktop\LAB 3_MAD\v2\MAD-Lab-3-TODO-V1\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.myapplication.app-debug-40 C:\Users\iagz\OneDrive\Desktop\LAB 3_MAD\v2\MAD-Lab-3-TODO-V1\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.myapplication.app-debug-41 C:\Users\iagz\OneDrive\Desktop\LAB 3_MAD\v2\MAD-Lab-3-TODO-V1\app\src\debug\res
+com.example.myapplication.app-main-42 C:\Users\iagz\OneDrive\Desktop\LAB 3_MAD\v2\MAD-Lab-3-TODO-V1\app\src\main\res

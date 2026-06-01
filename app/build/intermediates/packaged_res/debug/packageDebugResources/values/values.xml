@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bl1">#E70404</color>
+    <color name="black">#FF000000</color>
+    <color name="button">#38CE1E</color>
+    <color name="gray">#837E7E</color>
+    <color name="lightblue">#63deff</color>
+    <color name="logo">#e8ffcb</color>
+    <color name="topic">#6ADC30</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="App_Name">Habbit Tracker</string>
+    <string name="App_name_in_splash">Habbit Tracker</string>
+    <string name="app_name">TODO</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next</string>
+    <string name="onboarding1_subtext">Start your journey toward self-improvement by building small, positive habits that create long-lasting change in your life.</string>
+    <string name="onboarding2_text">Easily record your daily habits, monitor your progress, and stay focused with clear insights that encourage personal growth</string>
+    <string name="onboarding3_text">Stay consistent every day, push yourself forward, and achieve meaningful goals that bring real success and confidence.</string>
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication"/>
+</resources>

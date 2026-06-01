@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragment.HydrationFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/timeIntervalInputLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            style="@style/Widget.Material3.TextInputLayout.OutlinedBox.ExposedDropdownMenu">
+
+            <com.google.android.material.textfield.MaterialAutoCompleteTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="none"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <RelativeLayout
+            android:layout_width="300dp"
+            android:layout_height="300dp">
+
+            <com.google.android.material.progressindicator.CircularProgressIndicator
+                android:id="@+id/countDownloadProgress"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                app:indicatorSize="250dp"
+                app:trackThickness="16dp"
+                app:indicatorInset="0dp"
+                app:indicatorDirectionCircular="clockwise"
+                app:indicatorColor="@android:color/holo_red_light"
+                app:trackColor="@android:color/darker_gray"
+                android:max="100"
+                android:progress="0"/>
+
+            <TextView
+                android:id="@+id/countDownView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Count Down"
+                android:textAppearance="?attr/textAppearanceTitleMedium"
+                android:layout_centerInParent="true"/>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>
